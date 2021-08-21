@@ -47,8 +47,9 @@ social_media:
 
 topics:
 
-  - web_url: https://github.com/topics/zsh
-    image_url: https://user-images.githubusercontent.com/15098724/55282119-02dfc880-52fb-11e9-90b3-6c2c43ad5883.png
+  - name: ZSH
+    web_url: https://github.com/topics/zsh
+    image_url: https://avatars.githubusercontent.com/u/567410
 
   - name: Shell
     web_url: https://github.com/topics/shell
