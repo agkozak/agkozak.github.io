@@ -60,6 +60,11 @@ topics:
     web_url: https://github.com/topics/dotfiles
     image_url: https://raw.githubusercontent.com/jglovier/dotfiles-logo/master/dotfiles-logo-icon.png
 
+  - name: EQ
+    web_url: https://github.com/topics/equalizer
+    image_url: https://25.media.tumblr.com/5c2cc26a78c495c940eaf4ccf8a6829c/tumblr_mrzzkdSLT51qa70eyo1_500.png
+
+
 #   - name: CSS
 #     web_url: https://github.com/topics/css
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
