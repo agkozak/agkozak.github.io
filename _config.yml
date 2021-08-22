@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: dark
 
 plugins:
@@ -63,7 +63,6 @@ topics:
   - name: Audio EQ
     web_url: https://github.com/topics/equalizer
     image_url: http://simpleicon.com/wp-content/uploads/equalizer.png
-
 
 #   - name: CSS
 #     web_url: https://github.com/topics/css
